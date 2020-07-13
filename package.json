@@ -13,7 +13,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~9.1.0",
-    "@angular/cli": "^10.0.2",
+    "@angular/cli": "^9.1.10",
     "@angular/common": "~9.1.0",
     "@angular/compiler": "~9.1.0",
     "@angular/compiler-cli": "^9.1.12",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.0",
-    "@angular/cli": "^10.0.2",
+    "@angular/cli": "^9.1.10",
     "@angular/compiler-cli": "^9.1.12",
     "@angular/language-service": "~9.1.0",
     "@types/jasmine": "~3.5.0",
